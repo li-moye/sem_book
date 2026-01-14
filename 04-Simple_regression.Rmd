@@ -270,7 +270,7 @@ Is the error variable  $E$ exogenous or endogenous?
 
 :::
 
-One final note about this diagram: you may have noticed that the $Y$ variable (or $\textit{TEMP}$) does *not* have a variance term attached. There is no double-headed arrow on that box. Why not? The point here is that we are trying to understand the variance of $Y$ using other elements of the model. In other words, $Y$ has a variance, but that variance is partially predicted by $X$. And the rest of the variance not predicted by $X$ is swept up in the error term $E$. So all the variance is $Y$ is accounted for through the contribution of $X$ and $E$ combined.
+One final note about this diagram: you may have noticed that the $Y$ variable (or $\textit{TEMP}$) does *not* have a variance term attached. There is no double-headed arrow on that box. Why not? The point here is that we are trying to understand the variance of $Y$ using other elements of the model. In other words, $Y$ has a variance, but that variance is partially predicted by $X$. And the rest of the variance not predicted by $X$ is swept up in the error term $E$. So all the variance in $Y$ is accounted for through the contribution of $X$ and $E$ combined.
 
 
 ## Simple regression assumptions {#simple-assumptions}
